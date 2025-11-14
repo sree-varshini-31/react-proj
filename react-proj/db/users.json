@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "username": "sreevarshini",
+      "name": "varshini",
+      "email": "varshini@gmail.com",
+      "phone": "46612378945",
+      "website": "netflix.com",
+      "address": "kurnool",
+      "company": "ai"
+    },
+    {
+      "id": "102",
+      "username": "varshi",
+      "name": "Digarinti sree varshini",
+      "email": "varshini@gmail.com",
+      "phone": "08099055538",
+      "website": "conrad.com",
+      "address": "Flat no 402,uty appartment, mamatha nagar ,kurnool,Andhra pradesh",
+      "company": "TCS"
+    }
+  ]
+}
